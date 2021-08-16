@@ -1,3 +1,4 @@
+[Bill-Tracker-080921.pdf](https://github.com/ktodatwo/liftoff-assignments/files/6994446/Bill-Tracker-080921.pdf)
 # Project Planning
 For this assignment, you'll create some initial plans for your project.
 
@@ -8,12 +9,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+Attached.  Also can be viewed here: https://trello.com/1/cards/61141f811ad7f9146804f393/attachments/61141f9c2efa9e8f9624fb93/download/Bill-Tracker-080921.pdf
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+Include a link to your public Trello board: https://trello.com/b/zrQnDjXq/liftoff-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+Include a link to your project on GitHub: https://github.com/LaunchCodeLiftoffProjects/koki-group-a
