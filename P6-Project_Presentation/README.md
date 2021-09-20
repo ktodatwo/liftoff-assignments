@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+(https://github.com/ktodatwo/liftoff-assignments/files/7197007/LC.BillPaid.-.Project.Presentation.Template.pdf)
